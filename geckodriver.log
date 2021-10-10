@@ -1,0 +1,20 @@
+1633710463019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKBENuP"
+1633710468837	Marionette	INFO	Listening on port 35441
+1633710468947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633710475829	Marionette	INFO	Stopped listening on port 35441
+1633710596241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilencCuEv"
+1633710601774	Marionette	INFO	Listening on port 37553
+1633710601873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633710634198	Marionette	INFO	Stopped listening on port 37553
+1633710658828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA46zwr"
+1633710664612	Marionette	INFO	Listening on port 41101
+1633710664664	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1633710680555	Marionette	INFO	Stopped listening on port 41101
+1633710691035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHBNCa4"
+1633710697023	Marionette	INFO	Listening on port 33683
+1633710697074	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1633710710601	Marionette	INFO	Stopped listening on port 33683
